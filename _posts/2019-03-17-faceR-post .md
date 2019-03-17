@@ -11,5 +11,4 @@ categories: posts
 Using Haar cascade to detect a face. 
 
 	
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Qtx2aYdIoSw/0.jpg)](https://youtu.be/Qtx2aYdIoSw "Multi Face Tracking")
-
+{% include youtube.html id="Qtx2aYdIoSw" %}
