@@ -1,15 +1,12 @@
 ---
 layout: post
-title: Example post
+title: Advenced Graphic
 cover: cover.jpg
 date:   2013-12-09 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## WebGL - json file rendering
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+This is a sample of webGL rendering vertices and indices from json file, [WebGL](http://timthegod.github.io/WebGL).
 
-## Open Sourced on GitHub
-
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
