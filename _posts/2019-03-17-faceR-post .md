@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multi Face Recognition
+title: Multi Face Tracking
 cover: cover.jpg
 date:   2019-03-17 22:00:00
 categories: posts
