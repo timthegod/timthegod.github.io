@@ -8,5 +8,5 @@ categories: posts
 
 ## WebGL - json file rendering
 
-This is a sample of webGL rendering vertices and indices from json file, [WebGL](http://timthegod.github.io/WebGL).
+This is a sample of webGL rendering vertices and indices from json file, [click](http://timthegod.github.io/WebGL).
 
