@@ -6,7 +6,7 @@ date:   2019-06-20 22:47:00
 categories: posts
 ---
 
-## Using Mask-RCNN to remove backfround in video
+## Background remove using Mask-RCNN
 
 Using Mask-RCNN to remove backfround in video. 
 
