@@ -1,4 +1,4 @@
-Timmy Yang (Yang Ting Yu)
+Timmy Yang
 ====
 
 Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
